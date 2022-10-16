@@ -1,0 +1,12 @@
+.hello,
+.world {
+font-size: 28px; font-family: Helvetica, Times New Roman, sans-serif;
+} 
+
+.hello {
+    background-color: black; color: white;
+} 
+
+.world {
+    background-color: yellow;
+}
